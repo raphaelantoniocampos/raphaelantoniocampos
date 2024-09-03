@@ -15,7 +15,7 @@
 
  😄 Pronouns: **he/him**
 
- ⚡ Fun fact: **Dennis Villeneuve signed his high school yearbook as Muad’Dib**
+ ⚡ Fun fact: **Dennis Villeneuve signed his high school yearbook as Muad’Dib 🏝**
 
  📫 How to reach me:
  </div>
