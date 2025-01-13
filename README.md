@@ -9,9 +9,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a personal website**
+ 🔭 I’m currently working on **NULL**
  
- 🌱 I’m currently learning **Fullstack Web Development with Gleam** <img src="https://gleam.run/images/lucy/lucy.svg" alt="lucy" width="20"/>
+ 🌱 I’m currently learning **c/c++** 
+ <!-- <img src="https://gleam.run/images/lucy/lucy.svg" alt="lucy" width="20"/> -->
 
  😄 Pronouns: **he/him**
 
