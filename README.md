@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **NULL**
  
- 🌱 I’m currently learning **c/c++** 
+ 🌱 I’m currently learning **javascript** 
  <!-- <img src="https://gleam.run/images/lucy/lucy.svg" alt="lucy" width="20"/> -->
 
  😄 Pronouns: **he/him**
