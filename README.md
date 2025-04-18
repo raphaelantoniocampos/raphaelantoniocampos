@@ -9,11 +9,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NULL**
- 
- 🌱 I’m currently learning **javascript** 
- <!-- <img src="https://gleam.run/images/lucy/lucy.svg" alt="lucy" width="20"/> -->
-
  😄 Pronouns: **he/him**
 
  ⚡ Fun fact: **Dennis Villeneuve signed his high school yearbook as Muad’Dib 🏝**
@@ -22,7 +17,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:raphaelcampos01@proton.me">
+  <a href="mailto:raphael.antonio.campos@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://br.linkedin.com/in/raphael-antonio-campos" >
